@@ -1,0 +1,21 @@
+nav ul
+{
+    list-style-type: none;
+    display: flex;
+}
+p
+{
+color: blue;
+background-color: greenyellow;
+}
+
+.container
+{
+    background-color: black;
+
+}
+
+.titre
+{
+    color: white;
+}
